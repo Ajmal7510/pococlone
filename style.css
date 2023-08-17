@@ -1,0 +1,202 @@
+body{
+    margin: 0;
+    padding: 0;
+   
+    
+}
+h1,ul,h2,p,h3,h5{
+    margin: 0;
+   
+}
+
+
+header{
+    width: 100%;
+    height: 60px;
+    background-color: black;
+    display: flex;
+    
+  
+}
+.poco-logo{
+    position: relative;
+    margin-left: 145px;
+    
+    
+}
+.entry{
+    position: relative;
+    margin: 0 20px 0 21px;
+    font-size: 12px;
+    margin-top: 20px;
+    font-size: 15px;
+
+    
+
+
+}
+.entry2{
+    margin-top: 20px;
+    margin-left: 200px;
+
+}
+a{
+    text-decoration: none;
+    color:white;
+}
+.sign-entrys{
+ background-color: aqua;
+}
+.login-section{
+  
+    display: flex;
+    margin-left: 500px;
+}
+.banner{
+
+    background-image: url('BANNER.jpg');
+    background-size: cover;
+    width: 100%;
+    height: 750px;
+}
+.banner-entry{
+    color: antiquewhite;
+    text-decoration: none;
+}
+.top-section{
+    padding-top: 30px;
+}
+
+.top-section ul {
+    flex: 1;
+    text-align: center;
+    margin-left: 200px;
+  
+    
+}
+.top-section ul li{
+    display: inline-block;
+    margin: 30px 40px;
+    transition: color .4s ease;
+    font-size: 14px;
+    color: #616161;
+    margin: 0 15px;
+    cursor: default;
+    display: inline-block;
+  padding: 10px;
+  
+    
+}
+.top-section ul li a:hover{
+    color: 	#fed402;
+}
+.home-promo{
+    width: 100%;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.home-promo-content{
+    margin: 10px;
+}
+.home-video-text{
+    width: 100%;
+    height: 100px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    
+}
+.home-video-text h2{
+    color: #fff;
+    font-weight: 800;
+    font-size: 30px;
+    margin-left: 45%;
+}
+.home-video-section{
+    background-color: black;
+    width: 100%;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    
+}
+.home-video-section a{
+    margin: 10px;
+}
+.custumer-relation{
+    width: 100%;
+    height: 100px;
+    background-color: #161718;
+    display: flex;
+    color: #fff;
+    align-items: center;
+}
+
+.sec1{
+    margin-left: 120px;
+}
+.sec2 {
+    margin-left: 50px;
+}
+.sec2 input{
+  
+  
+  background-color: #161718;
+  border: solid 1px white;
+  color: white;
+  width: 209px;
+  height: 30px;
+  font-size: 14px;
+  padding: 5px;
+}
+.sec3{
+    margin-left: 300px;
+}
+.sec4{
+    width: 100px;
+  margin-left: 20px;
+  display: flex;
+  justify-content: center;
+  
+
+}
+.socialmedia{
+    color: #fff;
+    margin: 20px;
+    width: 10px;
+
+    
+}
+footer {
+    width: 100%;
+    height: 300px;
+    background-color: black;
+}
+
+.footernav{
+    color: white;
+    display: flex;
+}
+
+.footernav {
+   
+  padding-top: 30px;
+  padding-left: 120px;
+}
+.footernav a{
+    font-family: ProximaNova,Arial,Sans-serif;
+    font-size: 14px;
+    color: #757575;
+}
+.footernavsection1,.footernavsection2,.footernavsection3,.footernavsection4{
+    margin-right: 120px;
+}
+.footerbotom{
+ width: 80%;
+ margin-top: 30px;
+ margin-left: 80px;
+}
